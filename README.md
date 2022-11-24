@@ -10,6 +10,12 @@
 <p align="center">
   <a href="mailto:carlos@sysetup.com">carlos@sysetup.com</a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sysetup&label=Connections:&color=grey"  alt="Connections">
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=9453397)
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sysetup&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
