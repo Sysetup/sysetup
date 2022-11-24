@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="./images/sysetup.png" alt="Sysetup"></img>
+<img style="margin:auto" src="./images/sysetup.png" alt="Sysetup"></img>
 <p style="text-align: center;">Creation and optimization systems.</p>
 <p style="text-align: center;">COL: (+57)3116417210</p>
 <p style="text-align: center;">carlos@sysetup.com</p>
