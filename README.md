@@ -1,6 +1,11 @@
 <p align="center">
   <img src="./images/sysetup.png"  alt="Sysetup">
 </p>
+
+----
+
+
+<br>
 <p align="center">
   Creation and optimization systems.
 </p>
