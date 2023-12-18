@@ -16,7 +16,7 @@
   <a href="mailto:carlos@sysetup.com">carlos@sysetup.com</a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sysetup&label=Connection %23:&color=grey"  alt="Connections">
+  <img src="https://komarev.com/ghpvc/?username=Sysetup&label=Connection%23:&color=grey"  alt="Connections">
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=9453397)
