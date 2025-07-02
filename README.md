@@ -1,32 +1,16 @@
-<p align="center">
-  <img src="./images/sysetup.png"  alt="Sysetup">
-</p>
+```markdown
+   ____             __             
+  / __/_ _____ ___ / /___ _____ _/|
+ _\ \/ // (_-</ -_) __/ // / _ > _<
+/___/\_, /___/\__/\__/\_,_/ .__//  
+    /___/                /_/       
+> Software development company.
 
+```
 ----
 
+#  Creation and optimization systems.
 
-<br>
-<p align="center">
-  Creation and optimization systems.
-</p>
-<p align="center">
-  <a href="tel:+573116417210">COL: (+57)3116417210</a>
-</p>
-<p align="center">
-  <a href="mailto:carlos@sysetup.com">carlos@sysetup.com</a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sysetup&label=Connection%23:&color=grey"  alt="Connections">
-</p>
+### **Phone:** 📞 [+57 311 641 7210](tel:+573116417210)
 
-![](https://hit.yhype.me/github/profile?user_id=9453397)
-
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sysetup&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sysetup&repo=sysetup-park&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sysetup&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sysetup&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Sysetup.sysetup-park&left_color=blue&right_color=#0f1724)
-
--->
+### **Contact:** 📧 [carlos@sysetup.com](mailto:carlos@sysetup.com)
